@@ -10,11 +10,12 @@ Create a buttery-smooth, interactive search experience that demonstrates your ab
 
 ## 🚀 Getting Started
 
-1. **Fork this repository** to your GitHub account - **important: make your fork private!**
-2. **Clone** your fork locally
-3. **Install dependencies**: `npm install`
-4. **Start the development server**: `npm run dev`
-5. **Open** [http://localhost:3000](http://localhost:3000) in your browser
+1. **Clone this repository** and delete the .git folder
+2. **Create a new private repository** in your GitHub account
+3. **Create a local repository inside the cloned folder** with `git init`
+4. **Install dependencies**: `npm install`
+5. **Start the development server**: `npm run dev`
+6. **Open** [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📋 What's Already Built
 
@@ -68,7 +69,7 @@ const data = await response.json();
 
 ## 📤 Submission
 
-1. **Push your changes** to your private forked repository
+1. **Push your changes** to your private repository
 2. **Deploy** your solution (Vercel, Netlify, etc.)
 3. **Email us** with:
    - Link to your GitHub repository (make sure to invite `@nfichter` as a collaborator)
